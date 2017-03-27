@@ -1,0 +1,20 @@
+var manifest = [
+    {
+        src:"lib/assets.json",
+        forSpritesheet:"uiAssets"
+    },
+    {
+        src:"lib/assets.png",
+        id:"uiAssets"
+    },
+    {
+        src:"lib/boing.ogg",
+        id:"boing",
+        data:4
+    },
+    {
+        src:"lib/ghost.ogg",
+        id:"ghost",
+        data:4
+    }
+];
